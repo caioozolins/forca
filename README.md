@@ -1,2 +1,2 @@
-# forca
- Alura - Curso C
+# Alura - Curso C
+## C II: avançando na linguagem
